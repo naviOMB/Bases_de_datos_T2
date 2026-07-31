@@ -1,11 +1,5 @@
 # Tarea 2 - Bases de Datos
 
-**Integrantes:**
-- Iván Weber (202104092-7)
-- Javier Canepa (201910028-9)
-
----
-
 ## Descripción General
 
 Para la implementación de la base de datos se utilizó **XAMPP**, el cual provee los servicios de **Apache** y **MySQL**.  
